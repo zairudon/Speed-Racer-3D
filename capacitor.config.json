@@ -1,0 +1,6 @@
+{
+  "appId": "com.zairudon.speedracer",
+  "appName": "Speed Racer 3D",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
